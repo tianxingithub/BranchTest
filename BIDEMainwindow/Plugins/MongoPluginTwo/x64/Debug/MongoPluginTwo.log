@@ -1,0 +1,16 @@
+﻿  Reading Qt configuration (D:/Qt5.12.1/5.12.1/msvc2015_64/bin/qmake)
+  uic MongoEditor.ui
+  moc MongoEditor.h
+  moc MongoMoudule.h
+  moc MongoPlugin.h
+  MongoEditor.cpp
+  MongoMoudule.cpp
+  MongoPlugin.cpp
+  QxOrmData.cpp
+  moc_MongoEditor.cpp
+  moc_MongoMoudule.cpp
+  moc_MongoPlugin.cpp
+    正在创建库 E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\MongoPluginTwo.lib 和对象 E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\MongoPluginTwo.exp
+  MongoPluginTwo.vcxproj -> E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\MongoPluginTwo.dll
+  MongoPluginTwo.vcxproj -> E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\MongoPluginTwo.pdb (Full PDB)
+  已复制         1 个文件。

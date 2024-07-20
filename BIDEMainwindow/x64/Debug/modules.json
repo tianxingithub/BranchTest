@@ -1,0 +1,213 @@
+{
+    "组件分组": [
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Unknown",
+            "ModuleContainDirectory": "/当前工程编译",
+            "ModuleFolderName": "当前工程编译",
+            "ModuleIcon": "33-代码生成.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "当前工程编译",
+            "ModuleState": 1,
+            "ModuleTemplateGroupName": "当前工程编译",
+            "ModuleTemplateNames": {
+                "Value": [
+                    "MongoPluginTwo",
+                    "LoadDemoPlugin BIDE-1.4.0加载测试",
+                    "BTQssTestPlugin "
+                ]
+            },
+            "ModuleTreeItemType": "模型树节点分组",
+            "ModuleTreeItemTypeValue": "当前工程编译",
+            "ModuleUuid": "{7e214e86-ce8d-42e2-a9ad-54511bcd5623}",
+            "Parameters": [
+            ]
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Unknown",
+            "ModuleContainDirectory": "/多个dll连接mongodb",
+            "ModuleFolderName": "多个dll连接mongodb",
+            "ModuleIcon": "云数据库.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "多个dll连接mongodb",
+            "ModuleState": 1,
+            "ModuleTemplateGroupName": "多个dll连接mongodb",
+            "ModuleTemplateNames": {
+                "Value": [
+                    "MongoPluginTwo_copy01",
+                    "MongoPluginTwo_copy02"
+                ]
+            },
+            "ModuleTreeItemType": "模型树节点分组",
+            "ModuleTreeItemTypeValue": "多个dll连接mongodb",
+            "ModuleUuid": "{f616255e-7268-4907-af06-15d83b480d0f}",
+            "Parameters": [
+            ]
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Unknown",
+            "ModuleContainDirectory": "/导入工程编译",
+            "ModuleFolderName": "导入工程编译",
+            "ModuleIcon": "导入.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "导入工程编译",
+            "ModuleState": 1,
+            "ModuleTemplateGroupName": "导入工程编译",
+            "ModuleTemplateNames": {
+                "Value": [
+                ]
+            },
+            "ModuleTreeItemType": "模型树节点分组",
+            "ModuleTreeItemTypeValue": "导入工程编译",
+            "ModuleUuid": "{87730023-cc8d-4293-bdca-48e5316d4fcc}",
+            "Parameters": [
+            ]
+        }
+    ],
+    "组件库": [
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_CustomModule",
+            "ModuleClassName": "BTNullParameter",
+            "ModuleFolderName": "空值",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "空值",
+            "ModuleState": 1,
+            "ModuleTemplateName": "空值",
+            "ModuleTemplateUuid": "{fdd1ddb7-b3c9-486e-be6d-78ead5ff56b0}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "空值",
+            "ModuleUuid": "{95313643-db5d-4f87-9f48-496832cdefd4}",
+            "Parameters": [
+            ]
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_CustomModule",
+            "ModuleClassName": "BTStringParameter",
+            "ModuleFolderName": "字符串",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "字符串",
+            "ModuleState": 1,
+            "ModuleTemplateName": "字符串",
+            "ModuleTemplateUuid": "{58dd86d7-b8eb-407b-a485-a04c91d25297}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "字符串",
+            "ModuleUuid": "{805d50d8-1af4-4ede-9489-172a9a589b82}",
+            "Parameters": [
+            ]
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_CustomModule",
+            "ModuleClassName": "BTIntegerParameter",
+            "ModuleFolderName": "整数",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "整数",
+            "ModuleState": 1,
+            "ModuleTemplateName": "整数",
+            "ModuleTemplateUuid": "{cb2efb3d-cd84-4cce-bf8e-37a56e2dc0ce}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "整数",
+            "ModuleUuid": "{44b3971e-8b4b-4b65-ba64-1706a70b1bb9}",
+            "Parameters": [
+            ]
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_CustomModule",
+            "ModuleClassName": "BTFileParameter",
+            "ModuleFolderName": "文件",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "文件",
+            "ModuleState": 1,
+            "ModuleTemplateName": "文件",
+            "ModuleTemplateUuid": "{66dfd95a-7c7b-4cc2-94ac-cc44bfaa39be}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "文件",
+            "ModuleUuid": "{5e74fc7a-4b30-4dbf-87ab-5f12c571632b}",
+            "Parameters": [
+            ]
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Plugin",
+            "ModuleFolderName": "LoadDemoPlugin BIDE-1.4.0加载测试",
+            "ModuleIcon": "框架-管理.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "LoadDemoPlugin BIDE-1.4.0加载测试",
+            "ModuleState": 1,
+            "ModuleTemplateGroupName": "当前工程编译",
+            "ModuleTemplateName": "LoadDemoPlugin BIDE-1.4.0加载测试",
+            "ModuleTemplateUuid": "{3cc75c4a-43f0-4f64-9c23-ba9beec8401f}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "LoadDemoPlugin BIDE-1.4.0加载测试",
+            "ModuleUuid": "{722e61ff-1864-4f9a-8d7d-cedb53e8b487}",
+            "Parameters": [
+            ],
+            "dll": "LoadDemoPlugin.dll"
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Plugin",
+            "ModuleFolderName": "MongoPluginTwo",
+            "ModuleIcon": "mongoDB#icon-grah-mongoDB.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "MongoPluginTwo",
+            "ModuleState": 1,
+            "ModuleTemplateGroupName": "当前工程编译",
+            "ModuleTemplateName": "MongoPluginTwo",
+            "ModuleTemplateUuid": "{461185a4-61ed-4d2a-ad01-f3705fe18417}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "MongoPluginTwo",
+            "ModuleUuid": "{5041202b-589f-4451-8ffb-46d862f07f6e}",
+            "Parameters": [
+            ],
+            "dll": "MongoPluginTwo.dll"
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Plugin",
+            "ModuleFolderName": "BTQssTestPlugin ",
+            "ModuleIcon": "sharpicons_brick-wall.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "BTQssTestPlugin ",
+            "ModuleState": 1,
+            "ModuleTemplateGroupName": "当前工程编译",
+            "ModuleTemplateName": "BTQssTestPlugin ",
+            "ModuleTemplateUuid": "{fc2cf972-83f4-4c89-8ac5-8ba956882089}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "BTQssTestPlugin ",
+            "ModuleUuid": "{d2204ed8-d43b-4dd1-a8b3-885da235326d}",
+            "Parameters": [
+            ],
+            "dll": "BTQssTestPlugin.dll"
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Plugin",
+            "ModuleFolderName": "MongoPluginTwo_copy01",
+            "ModuleIcon": "云数据库.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "MongoPluginTwo_copy01",
+            "ModuleState": 1,
+            "ModuleTemplateGroupName": "多个dll连接mongodb",
+            "ModuleTemplateName": "MongoPluginTwo_copy01",
+            "ModuleTemplateUuid": "{58b459ed-829f-4b92-a874-a2a70e2c5152}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "MongoPluginTwo_copy01",
+            "ModuleUuid": "{c9aa3eda-9830-4487-b6d2-dfaf9cbb178e}",
+            "Parameters": [
+            ],
+            "dll": "MongoPluginTwo_copy01.dll"
+        },
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Plugin",
+            "ModuleFolderName": "MongoPluginTwo_copy02",
+            "ModuleIcon": "云数据库.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "MongoPluginTwo_copy02",
+            "ModuleState": 1,
+            "ModuleTemplateGroupName": "多个dll连接mongodb",
+            "ModuleTemplateName": "MongoPluginTwo_copy02",
+            "ModuleTemplateUuid": "{08a1415f-b16e-41f8-8786-16b05d77ddb5}",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeItemTypeValue": "MongoPluginTwo_copy02",
+            "ModuleUuid": "{f26e615b-0b02-42aa-aef5-d669375963e9}",
+            "Parameters": [
+            ],
+            "dll": "MongoPluginTwo_copy02.dll"
+        }
+    ]
+}

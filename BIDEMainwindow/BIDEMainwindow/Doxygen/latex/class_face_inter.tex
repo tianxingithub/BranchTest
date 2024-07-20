@@ -1,0 +1,116 @@
+\doxysection{Face\+Inter类 参考}
+\hypertarget{class_face_inter}{}\label{class_face_inter}\index{FaceInter@{FaceInter}}
+
+
+重写\+BIDE框架界面的\+QWidget  
+
+
+
+
+{\ttfamily \#include $<$Face\+Inter.\+h$>$}
+
+类 Face\+Inter 继承关系图\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_face_inter}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public 成员函数}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_face_inter_a41c47488baf019d928412c856244befa}{Face\+Inter}} (QWidget \texorpdfstring{$\ast$}{*}parent=nullptr)
+\item 
+\mbox{\hyperlink{class_face_inter_aca1ded9d4b98a79d3256bfa03634705f}{\texorpdfstring{$\sim$}{\string~}\+Face\+Inter}} ()
+\end{DoxyCompactItemize}
+\doxysubsubsection*{测试函数的参数格式}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{class_face_inter_a31a8b514ac986d5d1ae1c46ab1034518}{get\+Size}} ()
+\begin{DoxyCompactList}\small\item\em 得到光标的位置 \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_face_inter_a9c7c32d0503cc4de2a00eb57db98cc8f}{set\+Size}} (int x, int y, bool is\+Click)
+\begin{DoxyCompactList}\small\item\em 设置光标的x,y位置 \end{DoxyCompactList}\item 
+bool \mbox{\hyperlink{class_face_inter_ae30a4f8a1e0b7eeb7b95b7e6013726dc}{event\+Filter}} (QObject \texorpdfstring{$\ast$}{*}obj, QEvent \texorpdfstring{$\ast$}{*}event)
+\begin{DoxyCompactList}\small\item\em 鼠标响应过滤器，响应\+QWidget里面的\+Lable \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_face_inter_a81f9be9377687a37c147d076b0226e25}{enter\+Label\+Clicked}} ()
+\begin{DoxyCompactList}\small\item\em 传递给\+BIDEMainwindow \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{详细描述}
+重写\+BIDE框架界面的\+QWidget 
+
+替换默认的\+QWidget内容，需要设置一个spliter把widget顶上去 
+
+\doxysubsection{构造及析构函数说明}
+\Hypertarget{class_face_inter_a41c47488baf019d928412c856244befa}\index{FaceInter@{FaceInter}!FaceInter@{FaceInter}}
+\index{FaceInter@{FaceInter}!FaceInter@{FaceInter}}
+\doxysubsubsection{\texorpdfstring{FaceInter()}{FaceInter()}}
+{\footnotesize\ttfamily \label{class_face_inter_a41c47488baf019d928412c856244befa} 
+Face\+Inter\+::\+Face\+Inter (\begin{DoxyParamCaption}\item[{QWidget \texorpdfstring{$\ast$}{*}}]{parent}{ = {\ttfamily nullptr}}\end{DoxyParamCaption})}
+
+\Hypertarget{class_face_inter_aca1ded9d4b98a79d3256bfa03634705f}\index{FaceInter@{FaceInter}!````~FaceInter@{\texorpdfstring{$\sim$}{\string~}FaceInter}}
+\index{````~FaceInter@{\texorpdfstring{$\sim$}{\string~}FaceInter}!FaceInter@{FaceInter}}
+\doxysubsubsection{\texorpdfstring{\texorpdfstring{$\sim$}{\string~}FaceInter()}{\string~FaceInter()}}
+{\footnotesize\ttfamily \label{class_face_inter_aca1ded9d4b98a79d3256bfa03634705f} 
+Face\+Inter\+::\texorpdfstring{$\sim$}{\string~}\+Face\+Inter (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})}
+
+
+
+\doxysubsection{成员函数说明}
+\Hypertarget{class_face_inter_a81f9be9377687a37c147d076b0226e25}\index{FaceInter@{FaceInter}!enterLabelClicked@{enterLabelClicked}}
+\index{enterLabelClicked@{enterLabelClicked}!FaceInter@{FaceInter}}
+\doxysubsubsection{\texorpdfstring{enterLabelClicked}{enterLabelClicked}}
+{\footnotesize\ttfamily \label{class_face_inter_a81f9be9377687a37c147d076b0226e25} 
+void Face\+Inter\+::enter\+Label\+Clicked (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [signal]}}
+
+
+
+传递给\+BIDEMainwindow 
+
+\Hypertarget{class_face_inter_ae30a4f8a1e0b7eeb7b95b7e6013726dc}\index{FaceInter@{FaceInter}!eventFilter@{eventFilter}}
+\index{eventFilter@{eventFilter}!FaceInter@{FaceInter}}
+\doxysubsubsection{\texorpdfstring{eventFilter()}{eventFilter()}}
+{\footnotesize\ttfamily \label{class_face_inter_ae30a4f8a1e0b7eeb7b95b7e6013726dc} 
+bool Face\+Inter\+::event\+Filter (\begin{DoxyParamCaption}\item[{QObject \texorpdfstring{$\ast$}{*}}]{obj}{, }\item[{QEvent \texorpdfstring{$\ast$}{*}}]{event}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [protected]}}
+
+
+
+鼠标响应过滤器，响应\+QWidget里面的\+Lable 
+
+\Hypertarget{class_face_inter_a31a8b514ac986d5d1ae1c46ab1034518}\index{FaceInter@{FaceInter}!getSize@{getSize}}
+\index{getSize@{getSize}!FaceInter@{FaceInter}}
+\doxysubsubsection{\texorpdfstring{getSize()}{getSize()}}
+{\footnotesize\ttfamily \label{class_face_inter_a31a8b514ac986d5d1ae1c46ab1034518} 
+int Face\+Inter\+::get\+Size (\begin{DoxyParamCaption}{}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+得到光标的位置 
+
+\begin{DoxyReturn}{返回}
+返回光标的x,y坐标之和 
+\end{DoxyReturn}
+\Hypertarget{class_face_inter_a9c7c32d0503cc4de2a00eb57db98cc8f}\index{FaceInter@{FaceInter}!setSize@{setSize}}
+\index{setSize@{setSize}!FaceInter@{FaceInter}}
+\doxysubsubsection{\texorpdfstring{setSize()}{setSize()}}
+{\footnotesize\ttfamily \label{class_face_inter_a9c7c32d0503cc4de2a00eb57db98cc8f} 
+void Face\+Inter\+::set\+Size (\begin{DoxyParamCaption}\item[{int}]{x}{, }\item[{int}]{y}{, }\item[{bool}]{is\+Click}{}\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+设置光标的x,y位置 
+
+
+\begin{DoxyParams}{参数}
+{\em x\+:int} & 光标的x坐标 \\
+\hline
+{\em y\+:int} & 光标的y坐标 \\
+\hline
+{\em is\+Click\+:bool} & 光标是否点击 \\
+\hline
+\end{DoxyParams}
+
+
+该类的文档由以下文件生成\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_face_inter_8h}{Face\+Inter.\+h}}\item 
+\mbox{\hyperlink{_face_inter_8cpp}{Face\+Inter.\+cpp}}\end{DoxyCompactItemize}
