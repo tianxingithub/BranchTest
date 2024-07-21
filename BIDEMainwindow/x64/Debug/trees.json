@@ -1,0 +1,94 @@
+{
+    "ModuleTrees": [
+        {
+            "ModuleAssemblyType": "BTModuleAssemblyType_Unknown",
+            "ModuleIcon": "close32.png",
+            "ModuleInoutType": "BTModuleInoutType_None",
+            "ModuleName": "项目",
+            "ModuleState": 1,
+            "ModuleTreeInfo": "",
+            "ModuleTreeItemType": "模型树节点模块",
+            "ModuleTreeName": "计算工程",
+            "ModuleUuid": "{21a2c5f4-5167-4833-bef8-380e04cb2b39}",
+            "Parameters": [
+            ],
+            "TopLevelItems": [
+                {
+                    "Children": [
+                        {
+                            "Children": [
+                            ],
+                            "Module": {
+                                "ModuleAssemblyType": "BTModuleAssemblyType_CustomModule",
+                                "ModuleClassName": "BTNullParameter",
+                                "ModuleFolderName": "导入工程编译",
+                                "ModuleIcon": "导入.png",
+                                "ModuleInoutType": "BTModuleInoutType_None",
+                                "ModuleName": "导入工程编译",
+                                "ModuleState": 1,
+                                "ModuleTreeItemType": "模型树节点分组",
+                                "ModuleTreeItemTypeValue": "导入工程编译",
+                                "ModuleUuid": "{fac02565-62ed-447b-8851-0ac483faabcc}",
+                                "Parameters": [
+                                ]
+                            }
+                        },
+                        {
+                            "Children": [
+                            ],
+                            "Module": {
+                                "ModuleAssemblyType": "BTModuleAssemblyType_Unknown",
+                                "ModuleClassName": "BTNullParameter",
+                                "ModuleFolderName": "当前工程编译",
+                                "ModuleIcon": "33-代码生成.png",
+                                "ModuleInoutType": "BTModuleInoutType_None",
+                                "ModuleName": "当前工程编译",
+                                "ModuleState": 1,
+                                "ModuleTreeItemType": "模型树节点分组",
+                                "ModuleTreeItemTypeValue": "当前工程编译",
+                                "ModuleUuid": "{50bde4db-64f3-4943-82ef-e1f1707a06db}",
+                                "Parameters": [
+                                ]
+                            }
+                        },
+                        {
+                            "Children": [
+                            ],
+                            "Module": {
+                                "ModuleAssemblyType": "BTModuleAssemblyType_Unknown",
+                                "ModuleClassName": "BTNullParameter",
+                                "ModuleFolderName": "多个dll连接mongodb",
+                                "ModuleIcon": "云数据库.png",
+                                "ModuleInoutType": "BTModuleInoutType_None",
+                                "ModuleName": "多个dll连接mongodb",
+                                "ModuleState": 1,
+                                "ModuleTreeItemType": "模型树节点分组",
+                                "ModuleTreeItemTypeValue": "多个dll连接mongodb",
+                                "ModuleUuid": "{3dda5f55-2d93-4675-8a15-f6dde52c082b}",
+                                "Parameters": [
+                                ]
+                            }
+                        }
+                    ],
+                    "Module": {
+                        "ModuleAssemblyType": "BTModuleAssemblyType_CustomModule",
+                        "ModuleClassName": "BTFileParameter",
+                        "ModuleFolderName": "计算工程",
+                        "ModuleIcon": "工程.png",
+                        "ModuleInoutType": "BTModuleInoutType_None",
+                        "ModuleName": "计算工程",
+                        "ModuleState": 1,
+                        "ModuleTemplateName": "文件",
+                        "ModuleTemplateUuid": "{66dfd95a-7c7b-4cc2-94ac-cc44bfaa39be}",
+                        "ModuleTreeItemType": "模型树节点模块",
+                        "ModuleTreeItemTypeValue": "文件",
+                        "ModuleUuid": "{8a4534d6-8e46-41da-8c56-93852287385c}",
+                        "Parameters": [
+                        ],
+                        "Value": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

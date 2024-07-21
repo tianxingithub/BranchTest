@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (D:/Qt5.12.1/5.12.1/msvc2015_64/bin/qmake)
+  uic TextFormatDisplayDemos.ui
+  rcc TextFormatDisplayDemos.qrc
+  moc TextFormatDisplayDemos.h
+   RCC: Warning: No resources in 'E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\Demos\TextFormatDisplayDemos\TextFormatDisplayDemos.qrc'.
+  TextFormatDisplayDemos.cpp
+  main.cpp
+  qrc_TextFormatDisplayDemos.cpp
+  moc_TextFormatDisplayDemos.cpp
+  TextFormatDisplayDemos.vcxproj -> E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\TextFormatDisplayDemos.exe

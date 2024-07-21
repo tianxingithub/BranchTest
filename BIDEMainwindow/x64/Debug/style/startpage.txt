@@ -1,0 +1,19 @@
+/*BT StartPageWidget首页样式设置*/
+BT--BTStartPageWidget QLabel{
+	color: white;
+}
+
+BT--BTStartPageWidget QLabel#user_name {
+	color: rgb(25,143,210);
+	font: bold 20px "微软雅黑";
+}
+
+BT--BTStartPageWidget QLabel#software_chinese_name {
+	color: black;
+	font: bold 30px "微软雅黑";
+}
+
+BT--BTStartPageWidget QLabel#software_english_name {
+	color: rgb(102, 122, 146);
+	font: bold 13px "微软雅黑";
+}

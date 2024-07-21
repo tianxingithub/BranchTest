@@ -1,0 +1,19 @@
+﻿  Reading Qt configuration (D:/Qt5.12.1/5.12.1/msvc2015_64/bin/qmake)
+  uic BTQssEditor.ui
+  moc BTQssMoudule.h
+  moc BTQssPlugin.h
+  moc BTQssEditor.h
+cl : 命令行 warning D9030: “/Gm”与多处理不兼容；忽略 /MP 开关
+  BTQssPlugin.cpp
+  BTQssMoudule.cpp
+  BTQssEditor.cpp
+  正在生成代码...
+cl : 命令行 warning D9030: “/Gm”与多处理不兼容；忽略 /MP 开关
+  moc_BTQssEditor.cpp
+  moc_BTQssPlugin.cpp
+  moc_BTQssMoudule.cpp
+  正在生成代码...
+    正在创建库 E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\LoadDemoPlugin.lib 和对象 E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\LoadDemoPlugin.exp
+  LoadDemoPlugin.vcxproj -> E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\LoadDemoPlugin.dll
+  LoadDemoPlugin.vcxproj -> E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\LoadDemoPlugin.pdb (Full PDB)
+  已复制         1 个文件。

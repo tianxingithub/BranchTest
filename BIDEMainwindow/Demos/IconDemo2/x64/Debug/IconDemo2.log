@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (D:/Qt5.12.1/5.12.1/msvc2015_64/bin/qmake)
+  uic IconDemo2.ui
+  rcc IconDemo2.qrc
+  moc IconDemo2.h
+   RCC: Warning: No resources in 'E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\IconDemo2\IconDemo2.qrc'.
+  IconDemo2.cpp
+  main.cpp
+  qrc_IconDemo2.cpp
+  moc_IconDemo2.cpp
+  IconDemo2.vcxproj -> E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\IconDemo2.exe

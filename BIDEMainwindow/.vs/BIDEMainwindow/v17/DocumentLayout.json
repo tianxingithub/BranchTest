@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1BEC4F-17CE-404F-8C6F-B45F801907DA}|Plugins\\BTQssTestPlugin\\BTQssTestPlugin.vcxproj|E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\Plugins\\BTQssTestPlugin\\BTQssEditor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E1BEC4F-17CE-404F-8C6F-B45F801907DA}|Plugins\\BTQssTestPlugin\\BTQssTestPlugin.vcxproj|solutionrelative:Plugins\\BTQssTestPlugin\\BTQssEditor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\BIDEMainwindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|solutionrelative:BIDEMainwindow\\BIDEMainwindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\BIDEMainwindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|solutionrelative:BIDEMainwindow\\BIDEMainwindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\FaceInter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|solutionrelative:BIDEMainwindow\\FaceInter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|solutionrelative:BIDEMainwindow\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0086A3D-8CEC-4150-AD2A-338A795505A8}|Demos\\InheritDemo\\InheritDemo.vcxproj|E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\Demos\\InheritDemo\\Inherit-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0086A3D-8CEC-4150-AD2A-338A795505A8}|Demos\\InheritDemo\\InheritDemo.vcxproj|solutionrelative:Demos\\InheritDemo\\Inherit-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\FaceInter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA3864C2-D69B-4923-B53D-CEE583118B75}|BIDEMainwindow\\BIDEMainwindow.vcxproj|solutionrelative:BIDEMainwindow\\FaceInter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BTQssEditor.cpp",
+              "DocumentMoniker": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\Plugins\\BTQssTestPlugin\\BTQssEditor.cpp",
+              "RelativeDocumentMoniker": "Plugins\\BTQssTestPlugin\\BTQssEditor.cpp",
+              "ToolTip": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\Plugins\\BTQssTestPlugin\\BTQssEditor.cpp",
+              "RelativeToolTip": "Plugins\\BTQssTestPlugin\\BTQssEditor.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T07:51:34.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BIDEMainwindow.cpp",
+              "DocumentMoniker": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\BIDEMainwindow.cpp",
+              "RelativeDocumentMoniker": "BIDEMainwindow\\BIDEMainwindow.cpp",
+              "ToolTip": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\BIDEMainwindow.cpp",
+              "RelativeToolTip": "BIDEMainwindow\\BIDEMainwindow.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAIAxwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T07:50:22.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BIDEMainwindow.h",
+              "DocumentMoniker": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\BIDEMainwindow.h",
+              "RelativeDocumentMoniker": "BIDEMainwindow\\BIDEMainwindow.h",
+              "ToolTip": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\BIDEMainwindow.h",
+              "RelativeToolTip": "BIDEMainwindow\\BIDEMainwindow.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-15T07:50:30.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inherit-main.cpp",
+              "DocumentMoniker": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\Demos\\InheritDemo\\Inherit-main.cpp",
+              "RelativeDocumentMoniker": "Demos\\InheritDemo\\Inherit-main.cpp",
+              "ToolTip": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\Demos\\InheritDemo\\Inherit-main.cpp",
+              "RelativeToolTip": "Demos\\InheritDemo\\Inherit-main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T06:22:44.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resource.h",
+              "DocumentMoniker": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\resource.h",
+              "RelativeDocumentMoniker": "BIDEMainwindow\\resource.h",
+              "ToolTip": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\resource.h",
+              "RelativeToolTip": "BIDEMainwindow\\resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T06:22:06.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FaceInter.h",
+              "DocumentMoniker": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\FaceInter.h",
+              "RelativeDocumentMoniker": "BIDEMainwindow\\FaceInter.h",
+              "ToolTip": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\FaceInter.h",
+              "RelativeToolTip": "BIDEMainwindow\\FaceInter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-13T08:11:46.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FaceInter.cpp",
+              "DocumentMoniker": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\FaceInter.cpp",
+              "RelativeDocumentMoniker": "BIDEMainwindow\\FaceInter.cpp",
+              "ToolTip": "E:\\code\\VisualStudio\\_Beta\\BIDE_Beta\\BIDEMainwindow\\BIDEMainwindow\\FaceInter.cpp",
+              "RelativeToolTip": "BIDEMainwindow\\FaceInter.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T08:10:59.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

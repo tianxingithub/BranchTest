@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\BIDEMainwindow\FaceInter.cpp</string>
+      <string>E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\BIDEMainwindow\FaceInter.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\BIDEMainwindow\resource.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\Demos\InheritDemo\Inherit-main.cpp</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\BIDEMainwindow\BIDEMainwindow.cpp</string>
+      <string>E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\BIDEMainwindow\BIDEMainwindow.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\Plugins\BTQssTestPlugin\BTQssEditor.cpp</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

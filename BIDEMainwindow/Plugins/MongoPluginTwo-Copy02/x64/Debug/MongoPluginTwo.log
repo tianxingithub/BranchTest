@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MongoPluginTwo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Reading Qt configuration (D:/Qt5.12.1/5.12.1/msvc2015_64/bin/qmake)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MongoPluginTwo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+    正在创建库 E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\MongoPluginTwo_copy02.lib 和对象 E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\MongoPluginTwo_copy02.exp
+  MongoPluginTwo.vcxproj -> E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\MongoPluginTwo_copy02.dll
+  MongoPluginTwo.vcxproj -> E:\code\VisualStudio\_Beta\BIDE_Beta\BIDEMainwindow\x64\Debug\MongoPluginTwo_copy02.pdb (Full PDB)
+  已复制         1 个文件。
